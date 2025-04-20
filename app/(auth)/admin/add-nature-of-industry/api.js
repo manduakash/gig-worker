@@ -1,4 +1,4 @@
-import { callApi } from "@/app/commonApi";
+import { callApi } from "@/app/commonApi.js";
 
 export async function saveGigWorkerNatureIndustry(
   nature_industry_individual_id,

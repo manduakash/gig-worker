@@ -1,4 +1,4 @@
-import { callApi } from "@/app/commonApi";
+import { callApi } from "@/app/commonApi.js";
 
 export async function saveGigWorkerOccupationType(
   occupation_type_name

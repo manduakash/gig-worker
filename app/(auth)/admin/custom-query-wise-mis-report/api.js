@@ -1,4 +1,4 @@
-import { callApi } from "@/app/commonApi";
+import { callApi } from "@/app/commonApi.js";
 import Cookies from "react-cookies";;
 
 export async function getAuthorityMISReport(
